@@ -2,7 +2,7 @@ from voice import speak
 import google.generativeai as genai
 
 def extension(query1):
-    genai.configure(api_key="AIzaSyDaghkqsxDt3cw6OTr2txPi7kMcTTEFkcM")
+    genai.configure(api_key="")
 
 
 
@@ -56,6 +56,7 @@ def extension(query1):
     out=responsea.text
     file.write(out)
     
+
 
 
 
