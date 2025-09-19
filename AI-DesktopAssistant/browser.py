@@ -3,7 +3,7 @@ import webbrowser
 
 import google.generativeai as genai
 def browser(query):
-    genai.configure(api_key="AIzaSyDaghkqsxDt3cw6OTr2txPi7kMcTTEFkcM")
+    genai.configure(api_key="")
 
 # Set up the model
     generation_config = {
@@ -42,3 +42,4 @@ def browser(query):
     response = model.generate_content(prompt_parts)
     link=response.text
     webbrowser.open(link)
+
