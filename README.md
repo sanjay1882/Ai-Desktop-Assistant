@@ -1,5 +1,5 @@
-Teego - The Multifunctional Chatbot
-Teego is a Python chatbot designed to be a helpful desktop assistant. It offers a variety of functionalities to make your life easier.
+Teego - ( Sentient Workflow Architect for Windows )
+Teego is a Python chatbot designed to be a helpful AI desktop assistant for windows. It offers a variety of functionalities to make your life easier.
 
 Features:
 
