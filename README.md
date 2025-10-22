@@ -1,5 +1,5 @@
 Teego - ( Sentient Workflow Architect for Windows )
-Teego is a Python chatbot designed to be a helpful AI desktop assistant for windows. It offers a variety of functionalities to make your life easier.
+ is a Python chatbot designed to be a helpful AI desktop assistant for windows. It offers a variety of functionalities to make your life easier.
 
 Features:
 
